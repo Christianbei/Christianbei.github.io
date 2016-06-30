@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "About"
 description: "热衷于人类行为观测的外星研究者"
