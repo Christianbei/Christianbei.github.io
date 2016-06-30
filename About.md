@@ -6,7 +6,7 @@ header-img: "img/autumn2.jpg"
 ---
 
 <center>
-    <p><img src="http://o86oi1x1i.bkt.clouddn.com/QB%20ICON.png></p>
+    <p><img src="http://o86oi1x1i.bkt.clouddn.com/QB%20ICON.png"></p>
 </center>
 
 
