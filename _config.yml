@@ -1,29 +1,29 @@
-# Site settings
-title:  Yucan
+﻿# Site settings
+title:  Kyubei的人类行为研究所
 header-img: "img/autumn2.jpg"
-tagline: "风中等风来"  
-description: "风中等风来"  
+tagline: "Kyubei的人类行为研究所"  
+description: "真搞不懂你们人类啊"  
 baseurl: ""
-url: "http://yucan.win"  
+url: "http://christianbei.github.io"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Yucan"
-  email: zhyucan@gmail.com
-  bio: "用舍由時，行藏在我。袖手何妨閑處看。"
+  name: "Kyubei贝贝"
+  email: athoth@sina.cn
+  bio: ""
 
 # Data
-gavatar: http://o7v1v0rr4.bkt.clouddn.com/IMG_0754.jpg
+gavatar: 
 favicon: img/favicon.ico
 
-douban_username: 56816118
-twitter_username: zyucan  
-github_username: zhyucan 
-facebook_username: zhyucan  
-weibo_username: 123152014  
-zhihu_username: yucan  
-email_username: zhyucan@gmail.com
+douban_username: 
+twitter_username:  
+github_username: Christianbei 
+facebook_username:   
+weibo_username: 1813368494  
+zhihu_username:   
+email_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -54,7 +54,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Yucan"
+      author: "Kyubei贝贝"
       header-img: "img/autumn2.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
